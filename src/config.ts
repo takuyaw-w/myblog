@@ -8,7 +8,6 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'takuyaw-w/blog',
-  subtitle: '',
   lang: 'ja',
   themeColor: {
     hue: 150,
